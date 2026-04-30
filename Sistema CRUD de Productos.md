@@ -1,4 +1,4 @@
-Sistema CRUD de Productos
+
 Se desarrolló un sistema de gestión de productos utilizando el framework Laravel 13. El sistema permite realizar las cuatro operaciones básicas de persistencia de datos (CRUD): Crear, Leer, Actualizar y Eliminar registros de una base de datos MySQL gestionada a través de WampServer.
 
 Estructura de la Base de Datos 
